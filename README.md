@@ -29,14 +29,14 @@ spatial relationships played a key role in these definitions.
 
 Originally, Gened was hooked up to the CLASSIC Description Logic
 System.  However, I have disabled that part of Gened in this release,
-because I am not sure about the status of CLASSIC, I don't have the
-sources and don't know where to get them, and I also don't want to
-spend the time to get it going again (I might rather hook it up to our
-[Racer OWL & Description Logic Rreasoner](https://github.com/ha-mo-we)
-at some point). So, the classification capabilities of Gened are not
-available / enabled in this release, but you can try hooking it up to
-CLASSIC yourself (uncomment the `knowledge` subsystem in the
-`gened-sysdcl.lisp` if you can find the CLASSIC sources).
+because I am not sure about the status of CLASSIC. I don't have the
+sources, don't know how to get them, and don't want to spend the time
+to get it going again. I might rather hook it up to our [Racer OWL &
+Description Logic Rreasoner](https://github.com/ha-mo-we) at some
+point. So, the classification capabilities of Gened are not available
+/ enabled in this release, but you can try hooking it up to CLASSIC
+yourself if you like - uncomment the `knowledge` subsystem in the
+`gened-sysdcl.lisp` if you manage to find the CLASSIC sources.
 
 More [details about Gened can found in this
 paper](https://www.michael-wessel.info/papers/vl96.pdf), and on [my
@@ -50,7 +50,7 @@ days.*
 The original Gened was developed with Allegro Common Lisp CLIM 2,
 running on Sun (Classic, IPX and Sun-01) workstations. This pictures
 are showing the original version; admittedly, the ACL version of CLIM
-looks a bit nicer: 
+looks a bit nicer than the LispWorks one (see below): 
 
 ![gened-orig1](pics/gened2.gif)
 
@@ -62,9 +62,12 @@ looks a bit nicer:
 
 
 Today, in 2021, I am able to run this with LispWorks 6.1 on Ubuntu
-Xenial, using the Motif32 port of CLIM. It looks not as great as the
-original, but is mostly working fine (as long as you don't try to
-resize the window:
+Xenial, using the Motif32 port of CLIM. It doesn't look as great as
+the original, but is mostly working fine (as long as you don't try to
+resize the window; apparently, LispWorks CLIM has an issue with
+satisfying the geometric layout constraints for sub-panes specified in
+the `:layout` section of the `application-frame`; the ACL CLIM constraint
+solver works much better):
 
 ![gened-new1](pics/gened-lw61-1.png)
 
