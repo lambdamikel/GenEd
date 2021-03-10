@@ -39,8 +39,8 @@ CLASSIC yourself (uncomment the `knowledge` subsystem in the
 `gened-sysdcl.lisp` if you can find the CLASSIC sources).
 
 More [details about Gened can found in this
-paper][https://www.michael-wessel.info/papers/vl96.pdf], and on (my
-homepage)[https://www.michael-wessel.info/gened.html].
+paper](https://www.michael-wessel.info/papers/vl96.pdf), and on [my
+homepage](https://www.michael-wessel.info/gened.html).
 
 The original Gened was developed with Allegro Common Lisp CLIM 2,
 running on Sun (Classic, IPX and Sun-01) workstations. This pictures
