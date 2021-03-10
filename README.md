@@ -48,8 +48,11 @@ are showing the original version; admittedly, the ACL version of CLIM
 looks a bit nicer: 
 
 ![gened-orig1](pics/gened2.gif)
+
 ![gened-orig2](pics/gened8.gif)
+
 ![gened-orig3](pics/gened14.gif)
+
 ![gened-orig4](pics/gened11.gif)
 
 
@@ -59,12 +62,19 @@ original, but is mostly working fine (as long as you don't try to
 resize the window:
 
 ![gened-new1](pics/gened-lw61-1.png)
+
 ![gened-new2](pics/gened-lw61-2.png)
+
 ![gened-new3](pics/gened-lw61-3.png)
+
 ![gened-new4](pics/gened-lw61-4.png)
+
 ![gened-new5](pics/gened-lw61-5.png)
+
 ![gened-new6](pics/gened-lw61-6.png)
+
 ![gened-new7](pics/gened-lw61-7.png)
+
 ![gened-new8](pics/gened-lw61-8.png)
 
 
@@ -74,5 +84,6 @@ Adjust the logical pathname translations in `gened-sysdcl.lisp` to
 match your environment. Then, simply do a load, and start the program
 with `(gened::gened)`.
 
-Enjoy! Lisp program are written for eternity - 25 years are not that much for 
-a Lisp / CLIM program :-) 
+Enjoy! Lisp programs are written for eternity - 25 years are not that much for 
+a Common Lisp / CLIM program ;-) 
+
