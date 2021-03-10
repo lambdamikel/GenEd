@@ -1,0 +1,415 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%BoundingBox: 0.0 0.0 447.0 427.0
+%%Creator: CLIM 2.0
+%%CreationDate: 4-Aug-1995 15:31:02
+%%DocumentFonts: (atend)
+%%EndComments
+statusdict /waittimeout 30 put
+/fontarray 30 array def
+/f {fontarray exch get setfont} def
+/estfont {findfont exch scalefont fontarray 3 1 roll put} def
+/m {moveto} def
+/format-rotation 0 def 
+/format-translation {36.0 756.0} def
+/format-scale 1.0 def
+/new-matrix {format-translation translate
+		      format-rotation rotate
+		      format-scale format-scale scale} def
+	 /new-page {showpage new-matrix} def
+%%EndProlog
+
+new-matrix
+ 0.80 0.80 0.80 setrgbcolor
+ initclip  newpath
+ 195 485.5 m  218 514.5 lineto
+ 245 542.5 lineto
+ 275 565.5 lineto
+ 306 579.5 lineto
+ 337 585.5 lineto
+ 367 584.5 lineto
+ 394 577.5 lineto
+ 418 565.5 lineto
+ 438 548.5 lineto
+ 453 527.5 lineto
+ 462 502.5 lineto
+ 466 476.5 lineto
+ 464 449.5 lineto
+ 456 426.5 lineto
+ 445 409.5 lineto
+ 430 400.5 lineto
+ 412 399.5 lineto
+ 395 402.5 lineto
+ 380 410.5 lineto
+ 368 419.5 lineto
+ 359 427.5 lineto
+ 350 434.5 lineto
+ 342 436.5 lineto
+ 332 434.5 lineto
+ 323 427.5 lineto
+ 314 417.5 lineto
+ 307 405.5 lineto
+ 304 393.5 lineto
+ 302 381.5 lineto
+ 300 370.5 lineto
+ 296 360.5 lineto
+ 288 351.5 lineto
+ 278 345.5 lineto
+ 266 341.5 lineto
+ 254 338.5 lineto
+ 242 338.5 lineto
+ 231 340.5 lineto
+ 220 345.5 lineto
+ 210 351.5 lineto
+ 200 359.5 lineto
+ 191 369.5 lineto
+ 182 380.5 lineto
+ 175 392.5 lineto
+ 170 404.5 lineto
+ 167 419.5 lineto
+ 170 436.5 lineto
+ 179 458.5 lineto
+ closepath  fill
+ 0 setlinewidth
+[] 0 setdash
+ 0.40 0.40 0.40 setrgbcolor
+ newpath
+ 195 485.5 m  218 514.5 lineto
+ 245 542.5 lineto
+ 275 565.5 lineto
+ 306 579.5 lineto
+ 337 585.5 lineto
+ 367 584.5 lineto
+ 394 577.5 lineto
+ 418 565.5 lineto
+ 438 548.5 lineto
+ 453 527.5 lineto
+ 462 502.5 lineto
+ 466 476.5 lineto
+ 464 449.5 lineto
+ 456 426.5 lineto
+ 445 409.5 lineto
+ 430 400.5 lineto
+ 412 399.5 lineto
+ 395 402.5 lineto
+ 380 410.5 lineto
+ 368 419.5 lineto
+ 359 427.5 lineto
+ 350 434.5 lineto
+ 342 436.5 lineto
+ 332 434.5 lineto
+ 323 427.5 lineto
+ 314 417.5 lineto
+ 307 405.5 lineto
+ 304 393.5 lineto
+ 302 381.5 lineto
+ 300 370.5 lineto
+ 296 360.5 lineto
+ 288 351.5 lineto
+ 278 345.5 lineto
+ 266 341.5 lineto
+ 254 338.5 lineto
+ 242 338.5 lineto
+ 231 340.5 lineto
+ 220 345.5 lineto
+ 210 351.5 lineto
+ 200 359.5 lineto
+ 191 369.5 lineto
+ 182 380.5 lineto
+ 175 392.5 lineto
+ 170 404.5 lineto
+ 167 419.5 lineto
+ 170 436.5 lineto
+ 179 458.5 lineto
+ closepath  stroke
+
+/emtrx matrix def
+/elpd 8 dict def
+/ellipse {{arc} ellipsei} def
+/ellipsen {{arcn} ellipsei} def
+/ellipsei {elpd begin /arcp exch def /ea exch def /sa exch def /yra exch def /xra exch def
+      /y exch def /x exch def
+emtrx currentmatrix
+x y translate xra yra scale 0 0 1 sa ea arcp setmatrix end} def
+ 0 setlinewidth
+[] 0 setdash
+ 0.00 0.00 0.00 setrgbcolor
+ newpath
+ 171 391 5 5 0 360 ellipse
+ stroke
+ newpath
+ 168 394 m  174 388 lineto
+ stroke
+ newpath
+ 168 388 m  174 394 lineto
+ stroke
+ newpath
+ 206 349 m  212 349 lineto
+ 212 343 lineto
+ 206 343 lineto
+ closepath  stroke
+ newpath
+ 249 336 m  255 336 lineto
+ 255 330 lineto
+ 249 330 lineto
+ closepath  stroke
+ newpath
+ 303 358 m  309 358 lineto
+ 309 352 lineto
+ 303 352 lineto
+ closepath  stroke
+ newpath
+ 295 410 m  301 410 lineto
+ 301 404 lineto
+ 295 404 lineto
+ closepath  stroke
+ newpath
+ 343 455 m  349 455 lineto
+ 349 449 lineto
+ 343 449 lineto
+ closepath  stroke
+ newpath
+ 367 409 m  373 409 lineto
+ 373 403 lineto
+ 367 403 lineto
+ closepath  stroke
+ newpath
+ 452 388 m  458 388 lineto
+ 458 382 lineto
+ 452 382 lineto
+ closepath  stroke
+ newpath
+ 476 513 m  482 513 lineto
+ 482 507 lineto
+ 476 507 lineto
+ closepath  stroke
+ newpath
+ 400 595 m  406 595 lineto
+ 406 589 lineto
+ 400 589 lineto
+ closepath  stroke
+ newpath
+ 270 592 m  276 592 lineto
+ 276 586 lineto
+ 270 586 lineto
+ closepath  stroke
+ newpath
+ 153 447 m  161 447 lineto
+ 161 439 lineto
+ 153 439 lineto
+ closepath  stroke
+ newpath
+ 154 446 m  160 440 lineto
+ stroke
+ newpath
+ 154 440 m  160 446 lineto
+ stroke
+ 0 setlinewidth
+[] 0 setdash
+ newpath
+ 164 588.5 m  469 588.5 lineto
+ 469 335.5 lineto
+ 164 335.5 lineto
+ closepath  stroke
+0 5 /Helvetica estfont
+0 f  313 477.5 m (G-SPLINE-POLYGON 28) show
+ 0 setlinewidth
+[] 0 setdash
+ newpath
+ 316 464.5 m  320 464.5 lineto
+ 320 460.5 lineto
+ 316 460.5 lineto
+ closepath  stroke
+ newpath
+ 316 464.5 m  320 460.5 lineto
+ stroke
+ newpath
+ 316 460.5 m  320 464.5 lineto
+ stroke
+ 0.80 0.80 0.80 setrgbcolor
+ newpath
+ 195.5 690 m  229.5 697 lineto
+ 262.5 703 lineto
+ 289.5 707 lineto
+ 308.5 708 lineto
+ 319.5 707 lineto
+ 324.5 703 lineto
+ 326.5 695 lineto
+ 326.5 683 lineto
+ 324.5 669 lineto
+ 318.5 654 lineto
+ 307.5 640 lineto
+ 290.5 629 lineto
+ 269.5 620 lineto
+ 245.5 614 lineto
+ 220.5 608 lineto
+ 197.5 604 lineto
+ 175.5 602 lineto
+ 154.5 601 lineto
+ 136.5 604 lineto
+ 121.5 611 lineto
+ 109.5 620 lineto
+ 102.5 631 lineto
+ 101.5 642 lineto
+ 106.5 653 lineto
+ 118.5 664 lineto
+ 137.5 673 lineto
+ 163.5 682 lineto
+ closepath  fill
+ 0 setlinewidth
+[] 0 setdash
+ 0.40 0.40 0.40 setrgbcolor
+ newpath
+ 195.5 690 m  229.5 697 lineto
+ 262.5 703 lineto
+ 289.5 707 lineto
+ 308.5 708 lineto
+ 319.5 707 lineto
+ 324.5 703 lineto
+ 326.5 695 lineto
+ 326.5 683 lineto
+ 324.5 669 lineto
+ 318.5 654 lineto
+ 307.5 640 lineto
+ 290.5 629 lineto
+ 269.5 620 lineto
+ 245.5 614 lineto
+ 220.5 608 lineto
+ 197.5 604 lineto
+ 175.5 602 lineto
+ 154.5 601 lineto
+ 136.5 604 lineto
+ 121.5 611 lineto
+ 109.5 620 lineto
+ 102.5 631 lineto
+ 101.5 642 lineto
+ 106.5 653 lineto
+ 118.5 664 lineto
+ 137.5 673 lineto
+ 163.5 682 lineto
+ closepath  stroke
+ 0 setlinewidth
+[] 0 setdash
+ 0.00 0.00 0.00 setrgbcolor
+ newpath
+ 83 644 5 5 0 360 ellipse
+ stroke
+ newpath
+ 80 647 m  86 641 lineto
+ stroke
+ newpath
+ 80 641 m  86 647 lineto
+ stroke
+ newpath
+ 127 597 m  133 597 lineto
+ 133 591 lineto
+ 127 591 lineto
+ closepath  stroke
+ newpath
+ 215 609 m  221 609 lineto
+ 221 603 lineto
+ 215 603 lineto
+ closepath  stroke
+ newpath
+ 321 635 m  327 635 lineto
+ 327 629 lineto
+ 321 629 lineto
+ closepath  stroke
+ newpath
+ 327 710 m  333 710 lineto
+ 333 704 lineto
+ 327 704 lineto
+ closepath  stroke
+ newpath
+ 313 715 m  319 715 lineto
+ 319 709 lineto
+ 313 709 lineto
+ closepath  stroke
+ newpath
+ 141 688 m  149 688 lineto
+ 149 680 lineto
+ 141 680 lineto
+ closepath  stroke
+ newpath
+ 142 687 m  148 681 lineto
+ stroke
+ newpath
+ 142 681 m  148 687 lineto
+ stroke
+ 0 setlinewidth
+[] 0 setdash
+ newpath
+ 98.5 711 m  329.5 711 lineto
+ 329.5 598 lineto
+ 98.5 598 lineto
+ closepath  stroke
+ 201.5 668 m (G-SPLINE-POLYGON 29) show
+ 0 setlinewidth
+[] 0 setdash
+ newpath
+ 204.5 655 m  208.5 655 lineto
+ 208.5 651 lineto
+ 204.5 651 lineto
+ closepath  stroke
+ newpath
+ 204.5 655 m  208.5 651 lineto
+ stroke
+ newpath
+ 204.5 651 m  208.5 655 lineto
+ stroke
+ 0 setlinewidth
+[] 0 setdash
+ 0.40 0.40 0.40 setrgbcolor
+ newpath
+ 240 660 m  282 476 lineto
+ stroke
+ newpath
+ 282 476 m  284.38 485.78 lineto
+ 275.61 483.77 lineto
+ closepath  fill
+ 0 setlinewidth
+[] 0 setdash
+ 0.00 0.00 0.00 setrgbcolor
+ newpath
+ 240 660 5 5 0 360 ellipse
+ stroke
+ newpath
+ 237 663 m  243 657 lineto
+ stroke
+ newpath
+ 237 657 m  243 663 lineto
+ stroke
+ newpath
+ 278 480 m  286 480 lineto
+ 286 472 lineto
+ 278 472 lineto
+ closepath  stroke
+ newpath
+ 279 479 m  285 473 lineto
+ stroke
+ newpath
+ 279 473 m  285 479 lineto
+ stroke
+ 0 setlinewidth
+ [ 1 3 ] 0 setdash
+ newpath
+ 237 663 m  286.38 663 lineto
+ 286.38 473 lineto
+ 237 473 lineto
+ closepath  stroke
+ 256 583 m (G-ARROW 30) show
+ 0 setlinewidth
+[] 0 setdash
+ newpath
+ 259 570 m  263 570 lineto
+ 263 566 lineto
+ 259 566 lineto
+ closepath  stroke
+ newpath
+ 259 570 m  263 566 lineto
+ stroke
+ newpath
+ 259 566 m  263 570 lineto
+ stroke
+showpage
+%%Trailer
+%%DocumentFonts: Helvetica

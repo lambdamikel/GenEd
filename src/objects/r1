@@ -1,0 +1,28 @@
+GENED::OBJECT-DATA
+KNOWLEDGE:G-RECTANGLE
+KNOWLEDGE:G-RECTANGLE
+127/2 ; xextend
+-46   ; yextend
+KNOWLEDGE:BASIC-THING
+THING 
+(KNOWLEDGE:G-RECTANGLE) ; parent-concepts
+NIL ; ancestor-concepts
+209/2 ; xtrans
+244 ; ytrans 
+NIL ; hiddenp
+GENED::SCALEABLE-THING
+1.0 ; xscale
+1.0 ; yscale
+129 ; init-x-extend 
+94  ; init-y-extend
+GENED::ROTATEABLE-THING
+0 ; rotangle
+GENED::LINESTYLE-MIXIN
+NIL ; linestyle
+GENED::INK-MIXIN
+0.4 ; ink
+GENED::LINETHICKNESS-MIXIN
+2 ; linethickness
+GENED::FILLED-MIXIN
+NIL ; nicht gefuellt (filledp)
+0.8 ; Fuellfarbe (filled-ink)

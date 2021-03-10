@@ -1,0 +1,31 @@
+GENED::OBJECT-DATA
+KNOWLEDGE:G-ARROW
+KNOWLEDGE:G-ARROW
+KNOWLEDGE:BASIC-THING
+THING 
+(KNOWLEDGE:G-ARROW) ; parent-concepts
+NIL ; ancestor-concepts
+151 ; xtrans
+499/2 ; ytrans
+NIL ; hidden
+GENED::ROTATEABLE-THING
+0 ; rotangle
+GENED::OBJECT-WITH-HANDLES
+2 ; 2 Handles
+GENED::UNFIXED-END-HANDLE ; Klasse des 1. Handles
+59 ; x
+-141/2 ; y
+GENED::UNFIXED-START-HANDLE ; Klasse des 2. Handles
+-59 ; x
+141/2 ; y
+GENED::LINESEGMENT ; der Pfeil selbst 
+(-59 141/2) ; Position des Startpunktes
+(59 -141/2) ; Position des Endpunktes
+GENED::OBJECT-WITH-HEAD
+T ; Object hat Pfeilkopf (head)
+GENED::LINESTYLE-MIXIN
+NIL ; linestyle
+GENED::INK-MIXIN
+0.4 ; ink
+GENED::LINETHICKNESS-MIXIN
+2 ; linethickness

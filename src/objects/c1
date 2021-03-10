@@ -1,0 +1,44 @@
+GENED::OBJECT-DATA
+KNOWLEDGE:G-CHAIN
+KNOWLEDGE:G-CHAIN
+KNOWLEDGE:BASIC-THING
+THING  
+(KNOWLEDGE:G-DIRECTED-CHAIN) ; Parent Concepts
+NIL ; Ancestor Concepts
+154 ; x-Position xtrans
+193 ; y-Position ytrans
+NIL ; hiddenp
+GENED::ROTATEABLE-THING
+0 ; rotangle
+GENED::POINTLIST-OBJECT
+4   ; 4 Punkte in der Punktliste : Objektkoordinaten, relativ zu Origin (xtrans, ytrans) !
+95  ; x1
+28  ; y1
+46  ; x2
+-40 ; y2
+-55 ; x3
+-28 ; y3
+-95 ; x4
+40  ; y4
+GENED::OBJECT-WITH-HANDLES
+4 ; 4 Handles, nun folgen alle Handles: 
+GENED::UNFIXED-END-HANDLE ; 1. Handle 
+95 ; x-Pos. des 1. Handles
+28 ; y-Pos.
+GENED::UNFIXED-OBJECT-HANDLE ; 2. Handle
+46
+-40
+GENED::UNFIXED-OBJECT-HANDLE ; 3. Handle
+-55
+-28
+GENED::UNFIXED-START-HANDLE ; 4. Handle
+-95
+40
+GENED::OBJECT-WITH-HEAD
+T ; Objekt hat Pfeil-Kopf (gerichtete Kette)
+GENED::LINESTYLE-MIXIN
+NIL ; durchgehende Linien 
+GENED::INK-MIXIN
+0.4 ; Farbe
+GENED::LINETHICKNESS-MIXIN
+2 ; Liniedicke
