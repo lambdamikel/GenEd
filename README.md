@@ -42,6 +42,11 @@ More [details about Gened can found in this
 paper](https://www.michael-wessel.info/papers/vl96.pdf), and on [my
 homepage](https://www.michael-wessel.info/gened.html).
 
+*Please note that this was my first complex Common Lisp / CLIM
+program, so the code is not very good, and my Lisp programming
+capabilities have matured and advanced considerably since these early
+days.*
+
 The original Gened was developed with Allegro Common Lisp CLIM 2,
 running on Sun (Classic, IPX and Sun-01) workstations. This pictures
 are showing the original version; admittedly, the ACL version of CLIM
