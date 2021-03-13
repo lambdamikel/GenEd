@@ -10,7 +10,7 @@ works flawlessly in 2021. Tested with LispWorks 6.1 & CLIM on Ubuntu,
 
 The program was written in 1996, as part of [my bachelor thesis
 ("Studienarbeit")](./studienarbeit.pdf) at Bernd Neumann's Cognitive
-System Lab, University of Hamburg, Computer Science Department. The
+Systems Lab, University of Hamburg, Computer Science Department. The
 work was supervised by Volker Haarslev, who had the idea to define the
 visual syntax and semantics (of visual formalisms, or formally
 specified visual languages) by means of Description Logics.
