@@ -32,7 +32,7 @@ System.  However, I have disabled that part of Gened in this release,
 because I am not sure about the status of CLASSIC. I don't have the
 sources, don't know how to get them, and don't want to spend the time
 to get it going again. I might rather hook it up to our [Racer OWL &
-Description Logic Rreasoner](https://github.com/ha-mo-we) at some
+Description Logic Reasoner](https://github.com/ha-mo-we) at some
 point. So, the classification capabilities of Gened are not available
 / enabled in this release, but you can try hooking it up to CLASSIC
 yourself if you like - uncomment the `knowledge` subsystem in the
