@@ -1,6 +1,8 @@
 # GenEd  
 An Editor with Generic Semantics for Formal Reasoning About Visual Notations, written in Common Lisp & CLIM 
 
+#### Project Page: [www.michael-wessel.info/thesis.html](https://www.michael-wessel.info/thesis.html#gened)
+
 ## About
 
 Another piece of Common Lisp & CLIM (Common Lisp Interface Manager)
